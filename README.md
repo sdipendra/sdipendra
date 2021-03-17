@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sdipendra
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Kotlin and developing a IRC Client library and Android App
+- 💞️ I’m looking to collaborate on Angular plugin for Intellij Community
+- 📫 Reache me at dipendra32singh@gmail.com
